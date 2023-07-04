@@ -1,0 +1,33 @@
+[
+    {
+        "name":"apple",
+        "rate": 220,
+        "inStock":25
+    },
+    {
+        "name":"orange",
+        "rate": 120,
+        "inStock":35
+    }, {
+        "name":"kiwi",
+        "rate": 450,
+        "inStock":45
+    }, {
+        "name":"anaar",
+        "rate": 410,
+        "inStock":50
+    }, {
+        "name":"grapes",
+        "rate": 100,
+        "inStock":15
+    }, {
+        "name":"pineapple",
+        "rate": 400,
+        "inStock":45
+    }, {
+        "name":"watermelon",
+        "rate": 520,
+        "inStock":105
+    }
+]
+

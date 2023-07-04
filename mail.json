@@ -1,0 +1,184 @@
+[{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked":true
+    },
+    "emails" : [
+        "irfan@gmail.com",
+        "irfan2@gmail.com",
+        "irfaan008"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Irfan",
+    "lastName" : "Raza",
+    "primaryEmail" : "irfan@gmail.com",
+    "uuid" : "ec0fa92c-3eee-4fba-a9dc-fe0c508cf278",
+    "password" : "irfaan",
+    "shouldChangePassword" : false,
+    "notes" : [
+
+    ],
+    "themeMode" : "light-mode"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "asad@gmail.com",
+        "asad123@gmail.com",
+        "asad09@gmail.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Isaiah",
+    "lastName" : "Washington",
+    "password" : "asad",
+    "primaryEmail" : "washingtonisaiah14@gmail.com",
+    "uuid" : "ccd42d76-4e02-45a1-a8d4-36d172adefed"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : true
+    },
+    "emails" : [
+        "tea_mazing@yahoo.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Alonzo",
+    "lastName" : "Starling",
+    "password" : "tea0909",
+    "primaryEmail" : "tea_mazing@yahoo.com",
+    "uuid" : "3651671b-2c5c-4aea-9f35-77b83d06f485"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "smccrjr1998@gmail.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Sean",
+    "lastName" : "McCray Jr.",
+    "password":"smcc0909",
+    "primaryEmail" : "smccrjr1998@gmail.com",
+    "uuid" : "c070b57b-0ce8-44be-b84a-f66d1c788d5f"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "info@carols-beautybar.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Carol",
+    "lastName" : "Williams",
+    "password" : "EU+m2p9/NRc7oDpzWDCFeQ==",
+    "primaryEmail" : "info@carols-beautybar.com",
+    "uuid" : "6185a026-5f49-412f-8d54-075eff050491"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "justinharrisentrepenuer757@gmail.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Justin",
+    "lastName" : "Harris",
+    "password" : "GSfK2v1V68HIoeyQhpGbvQ==",
+    "primaryEmail" : "justinharrisentrepenuer757@gmail.com",
+    "uuid" : "ba8deed4-2e6c-45a3-b128-c64d95fd1f6b"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "sweetreatsboutique@gmail.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "DeReece ",
+    "lastName" : "Collington ",
+    "password" : "i0MUGubsvl8clRCuyHsxMw==",
+    "primaryEmail" : "sweetreatsboutique@gmail.com",
+    "uuid" : "e348c16b-0cc9-475b-a104-5fd5f3b49352"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "princessjazminedoctor@gmail.com"
+    ],
+    "isActive" : false,
+    "isDeleted" : true,
+    "firstName" : "Jazmine ",
+    "lastName" : "Doctor",
+    "password" : "w6U/Ie7ASjZrr3mX1MvzBw==",
+    "primaryEmail" : "x-princessjazminedoctor@gmail.com",
+    "uuid" : "9e01be63-7f33-4134-a784-0b49dac326c2",
+    "notes" : [
+
+    ],
+    "shouldChangePassword" : false,
+    "themeMode" : "light-mode"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "erika@thehananproject.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Erika ",
+    "lastName" : "Collins ",
+    "password" : "g8xHmtxFSm22KiWzZSsZ6A==",
+    "primaryEmail" : "erika@thehananproject.com",
+    "uuid" : "2c725cc3-db88-41c3-b993-00924c9823b5"
+},
+{
+    "securityCheck" : {
+        "emailVerified" : false,
+        "mobileVerified" : false,
+        "isBlocked" : false
+    },
+    "emails" : [
+        "mrs.annakai@gmail.com"
+    ],
+    "isActive" : true,
+    "isDeleted" : false,
+    "firstName" : "Annakai",
+    "lastName" : "Jean simon",
+    "password" : "CvuQfG2KTcoUZgbSDDxPiw==",
+    "primaryEmail" : "mrs.annakai@gmail.com",
+    "uuid" : "137ab4e5-e29e-46f3-a565-c54cea96b16b"
+}]

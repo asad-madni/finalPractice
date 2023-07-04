@@ -1,0 +1,46 @@
+[
+    {
+        "name":"mediafire",
+        "free":20,
+        "capacity":100,
+        "price":2000
+    },
+    {
+        "name":"dropbox",
+        "free":10,
+        "capacity":50,
+        "price":1400
+    },{
+        "name":"pcloud",
+        "free":5,
+        "capacity":100,
+        "price":1200
+    },{
+        "name":"google drive",
+        "free":15,
+        "capacity":200,
+        "price":2500
+    },{
+        "name":"digibox",
+        "free":10,
+        "capacity":1024,
+        "price":3000
+    },{
+        "name":"mega",
+        "free":20,
+        "capacity":500,
+        "price":2600
+    },{
+        "name":"one drive",
+        "free":5,
+        "capacity":100,
+        "price":1299
+    },
+    {
+        "name":"terabox",
+        "free":100,
+        "capacity":1024,
+        "price":5000
+    }
+]
+

@@ -1,0 +1,44 @@
+[
+    {
+        "to" :"delhi",
+        "rate":100,
+        "days":"3 days"
+        
+    },
+    {
+        "to" :"mumbai",
+        "rate":150,
+        "days":"3 days"
+        
+    },
+    {
+        "to" :"pune",
+        "rate":173,
+        "days":"5 days"
+        
+    },
+    {
+        "to" :"hyderabad",
+        "rate":200,
+        "days":"7 days"
+        
+    },
+    {
+        "to" :"kashmir",
+        "rate":200,
+        "days":"8 days"
+        
+    },
+    {
+        "to" :"Kota",
+        "rate":150,
+        "days":"6 days"
+        
+    },
+    {
+        "to" :"wagah",
+        "rate":300,
+        "days":"10 days"
+        
+    }
+]

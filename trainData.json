@@ -1,0 +1,253 @@
+[
+    {
+      "trainNo": 1000,
+      "isCancelled": true,
+      "name": "Strickland",
+      "availability": [
+        {
+          "classname": "CC",
+          "seat": 33
+        },
+        {
+          "classname": "1A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1001,
+      "isCancelled": false,
+      "name": "Finley",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 32
+        },
+        {
+          "classname": "CC",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1002,
+      "isCancelled": false,
+      "name": "Goff",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 34
+        },
+        {
+          "classname": "1A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1003,
+      "isCancelled": true,
+      "name": "Cline",
+      "availability": [
+        {
+          "classname": "2A",
+          "seat": 40
+        },
+        {
+          "classname": "SL",
+          "seat": 40
+        },
+        {
+          "classname": "1A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1004,
+      "isCancelled": true,
+      "name": "Dyer",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 28
+        },
+        {
+          "classname": "2A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1005,
+      "isCancelled": true,
+      "name": "Wilkins",
+      "availability": [
+        {
+          "classname": "1A",
+          "seat": 32
+        },
+        {
+          "classname": "3A",
+          "seat": 37
+        },
+        {
+          "classname": "SL",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1006,
+      "isCancelled": false,
+      "name": "Cochran",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 34
+        },
+        {
+          "classname": "CC",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1007,
+      "isCancelled": false,
+      "name": "Cross",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 26
+        },
+        {
+          "classname": "CC",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1008,
+      "isCancelled": false,
+      "name": "Mcknight",
+      "availability": [
+        {
+          "classname": "2A",
+          "seat": 24
+        },
+        {
+          "classname": "1A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1009,
+      "isCancelled": false,
+      "name": "Baldwin",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 20
+        },
+        {
+          "classname": "2A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1010,
+      "isCancelled": true,
+      "name": "Marquez",
+      "availability": [
+        {
+          "classname": "SL",
+          "seat": 22
+        },
+        {
+          "classname": "1A",
+          "seat": 37
+        },
+        {
+          "classname": "2A",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1011,
+      "isCancelled": false,
+      "name": "Chase",
+      "availability": [
+        {
+          "classname": "1A",
+          "seat": 31
+        },
+        {
+          "classname": "2A",
+          "seat": 37
+        },
+        {
+          "classname": "CC",
+          "seat": 40
+        }
+      ]
+    },
+    {
+      "trainNo": 1012,
+      "isCancelled": true,
+      "name": "Woodward",
+      "availability": [
+        {
+          "classname": "CC",
+          "seat": 30
+        },
+        {
+          "classname": "2A",
+          "seat": 37
+        },
+        {
+          "classname": "3A",
+          "seat": 40
+        }
+      ]
+    }
+  ]

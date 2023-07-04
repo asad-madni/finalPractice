@@ -1,0 +1,212 @@
+[
+    {
+        "to": "mumbai",
+        "type": "economy",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 20,
+                "rate": 4890
+            },
+            {
+                "name": "air india",
+                "seat": 40,
+                "rate": 4500
+            },
+            {
+                "name": "spicejet",
+                "seat": 50,
+                "rate": 5000
+            }
+        ]
+    },
+    {
+        "to": "mumbai",
+        "type": "bussiness",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 4,
+                "rate": 25000
+            },
+            {
+                "name": "vistara",
+                "seat": 12,
+                "rate": 30000
+            },
+            {
+                "name": "air india",
+                "seat": 2,
+                "rate": 23000
+            }
+        ]
+    },
+    {
+        "to": "raipur",
+        "type": "economy",
+        "Reservation": [
+            {
+                "name": "vistara",
+                "seat": 20,
+                "rate": 2300
+            },
+            {
+                "name": "indigo",
+                "seat": 12,
+                "rate": 4000
+            },
+            {
+                "name": "spicejet",
+                "seat": 23,
+                "rate": 2400
+            }
+        ]
+    },
+    {
+        "to": "raipur",
+        "type": "bussiness",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 34,
+                "rate": 7000
+            },
+            {
+                "name": "spicejet",
+                "seat": 23,
+                "rate": 10000
+            },
+            {
+                "name": "vistara",
+                "seat": 45,
+                "rate": 14000
+            }
+        ]
+    },
+    {
+        "to": "indore",
+        "type": "economy",
+        "Reservation": [
+            {
+                "name": "air india",
+                "seat": 15,
+                "rate": 4900
+            },
+            {
+                "name": "indigo",
+                "seat": 23,
+                "rate": 5800
+            },
+            {
+                "name": "vistara",
+                "seat": 13,
+                "rate": 4200
+            }
+        ]
+    },
+    {
+        "to": "indore",
+        "type": "bussiness",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 32,
+                "rate": 10000
+            },
+            {
+                "name": "spicejet",
+                "seat": 21,
+                "rate": 14000
+            },
+            {
+                "name": "vistara",
+                "seat": 12,
+                "rate": 15000
+            }
+        ]
+    },
+    {
+        "to": "bhopal",
+        "type": "economy",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 12,
+                "rate": 3000
+            },
+            {
+                "name": "spicejet",
+                "seat": 23,
+                "rate": 2100
+            },
+            {
+                "name": "vistara",
+                "seat": 23,
+                "rate": 3400
+            }
+        ]
+    },
+    {
+        "to": "bhopal",
+        "type": "bussiness",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 22,
+                "rate": 18000
+            },
+            {
+                "name": "air india",
+                "seat": 31,
+                "rate": 39000
+            },
+            {
+                "name": "vistara",
+                "seat": 21,
+                "rate": 30000
+            }
+        ]
+    },
+    {
+        "to": "kashmir",
+        "type": "economy",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 33,
+                "rate": 2300
+            },
+            {
+                "name": "spicejet",
+                "seat": 21,
+                "rate": 4000
+            },
+            {
+                "name": "air india",
+                "seat": 44,
+                "rate": 3400
+            }
+        ]
+    },
+    {
+        "to": "kashmir",
+        "type": "bussiness",
+        "Reservation": [
+            {
+                "name": "indigo",
+                "seat": 23,
+                "rate": 15000
+            },
+            {
+                "name": "spicejet",
+                "seat": 43,
+                "rate": 20000
+            },
+            {
+                "name": "vistara",
+                "seat": 34,
+                "rate": 25000
+            }
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "times of india",
+        "city": ["delhi", "mumbai", "kolkata", "banglore", "pune"],
+        "rate": 25,
+        "language": "English"
+    },
+    {
+        "name": "the hitavada",
+        "city": ["raipur", "kolkata", "mumbai", "indore", "surat", "ahamadabad", "bhilai", "durg"],
+        "rate": 20,
+        "language": "English"
+    },
+    {
+        "name": "the hindu",
+        "city": ["raipur", "kolkata", "mumbai", "indore", "surat", "ahamadabad", "bhilai", "durg", "pune"],
+        "rate": 35,
+        "language": "English"
+    },
+    {
+        "name": "dainik bhaskar",
+        "city": ["raipur", "rajim", "durg", "bhilai", "bhopal", "bilaspur", "bhatapara"],
+        "rate": 6,
+        "language": "hindi"
+    },
+    {
+        "name": "haribhoomi",
+        "city": ["raipur", "durg", "bhilai", "rajim", "gariyaband"],
+        "rate": 5,
+        "language": "hindi"
+    },
+    {
+        "name": "patrika",
+        "city": ["raipur", "rajim", "durg", "bhilai", "bhopal", "bilaspur", "bhatapara"],
+        "rate": 4,
+        "language": "hindi"
+    }
+]

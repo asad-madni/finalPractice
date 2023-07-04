@@ -1,0 +1,185 @@
+[
+    {
+        "brand": "oppo",
+        "model": "oppo f19",
+        "camera": 108,
+        "variant": [
+            {
+                "ram": 4,
+                "storage": 64,
+                "price": 5000
+            },
+            {
+                "ram": 6,
+                "storage": 128,
+                "price": 7000
+            }
+        ],
+        "images": [
+            "url1a",
+            "url2b"
+        ],
+        "reviews":[
+            {
+                "rating": 3,
+                "title": "Awesome phone",
+                "description": "Too much heating",
+                "reviewDate": "2023-12-23"
+            },
+            {
+                "rating": 4,
+                "title": "Nice phone",
+                "description": "Build quality is good",
+                "reviewDate": "2023-12-23"
+            },
+            {
+                "rating": 5,
+                "title": "Fantastic phone",
+                "description": "Everythin is Fantastic",
+                "reviewDate": "2023-12-23"
+            },
+            {
+                "rating": 1,
+                "title": "Bad phone",
+                "description": "Poor build quality",
+                "reviewDate": "2023-12-23"
+            },
+            {
+                "rating": 2,
+                "title": "Poor phone",
+                "description": "Les features",
+                "reviewDate": "2023-12-23"
+            }
+        ],
+    
+        "category": "Mobile",
+        "subCategory": "Smartphone",
+        "processor":"Snapdragon 660",
+        "battery":5000,
+        "colors":["red","blue","green"]
+    },
+
+
+
+
+    {
+        "brand": "oppo",
+        "model": "oppo xt",
+        "ram": 8,
+        "camera": 108,
+        "variant": [
+            {
+                "ram": 4,
+                "storage": 64,
+                "price": 10000
+            },
+            {
+                "ram": 6,
+                "storage": 128,
+                "price": 15000
+            }
+        ]
+    },
+    {
+        "brand": "oppo",
+        "model": "oppo 8 pro",
+        "camera": 48,
+        "variant": [
+            {
+                "ram": 8,
+                "storage": 128,
+                "price": 15000
+            },
+            {
+                "ram": 6,
+                "storage": 256,
+                "price": 20000
+            }
+        ]
+    },
+    {
+        "brand": "oppo",
+        "model": "oppo nord 5G",
+        "camera": 64,
+        "variant": [
+            {
+                "ram": 8,
+                "storage": 128,
+                "price": 25000
+            },
+            {
+                "ram": 12,
+                "storage": 256,
+                "price": 30000
+            }
+        ]
+    },
+    {
+        "brand": "oppo",
+        "model": "oppo nord 5G",
+        "camera": 64,
+        "variant": [
+            {
+                "ram": 8,
+                "storage": 128,
+                "price": 25000
+            },
+            {
+                "ram": 12,
+                "storage": 256,
+                "price": 30000
+            }
+        ]
+    },
+    {
+        "brand": "oneplus",
+        "model": "oneplus 10",
+        "camera": 108,
+        "variant": [
+            {
+                "ram": 12,
+                "storage": 128,
+                "price": 30000
+            },
+            {
+                "ram": 12,
+                "storage": 256,
+                "price": 35000
+            }
+        ]
+    },
+    {
+        "brand": "oneplus",
+        "model": "oneplus nord 5G",
+        "camera": 108,
+        "variant": [
+            {
+                "ram": 8,
+                "storage": 256,
+                "price": 45000
+            },
+            {
+                "ram": 12,
+                "storage": 512,
+                "price": 50000
+            }
+        ]
+    },
+    {
+        "brand": "oneplus",
+        "model": "oneplus 11r",
+        "camera": 64,
+        "variant": [
+            {
+                "ram": 12,
+                "storage": 128,
+                "price": 40000
+            },
+            {
+                "ram": 12,
+                "storage": 256,
+                "price": 45000
+            }
+        ]
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "price": 200000,
+        
+        "city": [
+            "raipur",
+            "bilaspur",
+            "bhilai",
+            "dhamtari"
+        ],
+        "cars": [
+            "santro",
+            "waganor",
+            "eon",
+            "beat"
+        ]
+    },
+    {
+        "price": 400000,
+        "city": [
+            "raipur",
+            "bhilai",
+            "dhamtari"
+        ],
+        "cars": [
+            "mg hector",
+            "seltos",
+            "baleno",
+            "bolero"
+        ],
+        "details": {
+            "type": "diesel",
+            "mileage": 25,
+            "gear": "yes"
+        }
+    },
+    {
+        "price": 600000,
+        "city": [
+            "raipur",
+            "bilaspur",
+            "dhamtari"
+        ],
+        "cars": [
+            "innova",
+            "sumo",
+            "carnival",
+            "alcazar"
+        ]
+    },
+    {
+        "price": 800000,
+        "city": [
+            "delhi",
+            "mumbai",
+            "kolkata",
+            "banglore"
+        ],
+        "cars": [
+            "fortuner",
+            "endeaveour",
+            "ecosport"
+        ],
+        "details": {
+            "type": "petrol",
+            "mileage": 15,
+            "gear": "no"
+        }
+    },
+    {
+        "price": 1000000,
+        "city": [
+            "delhi",
+            "indore",
+            "pune",
+            "prayagraj"
+        ],
+        "cars": [
+            "swift",
+            "xuv",
+            "i20"
+        ]
+    },
+    {
+        "price": 1200000,
+        "city": [
+            "raipur",
+            "jabalpur",
+            "kamptee",
+            "surat"
+        ],
+        "cars": [
+            "bmw",
+            "mercedez",
+            "audio",
+            "bentley"
+        ]
+    },
+    {
+        "price": 1500000,
+        "city": [
+            "raipur",
+            "jodhpur",
+            "shimla",
+            "mumbai"
+        ],
+        "cars": [
+            "jaguar",
+            "tata",
+            "lexus"
+        ]
+    }
+]
